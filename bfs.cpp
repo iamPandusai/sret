@@ -2,7 +2,7 @@
 #include <queue>
 using namespace std;
 int main()
-{
+{ //safasfadsfsadfadsf
      queue<int> bfs;
      int graph[7][7] = {{0, 1, 1, 0, 0, 0, 0},
                         {1, 0, 1, 0, 0, 0, 0},
